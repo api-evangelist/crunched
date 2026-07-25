@@ -1,0 +1,53 @@
+# Crunched
+
+> Crunched is an AI Excel analyst for Excel power users in management consulting, investment banking, private equity, and corporate finance. It builds financial models, detects errors across entire workbooks, extracts data from PDFs and web sources, formats spreadsheets, and generates presentation slides directly from Excel with full workbook context – all autonomously inside Microsoft Excel. Crunched also reviews full decks across 100+ pages for consistency and correctness. Backed by Y Combinator, First Round Capital, and 20VC. ISO 27001 certified, SOC 2 Type II certified, and GDPR compliant.
+
+Crunched was founded by Philip Borge and Michael Sakowski, who spent 10,000+ hours in Excel at McKinsey's private equity practice. The product delivers 60–95% time savings on tasks like DCFs, LBOs, and research analysis. It works as a Microsoft Excel add-in on both Mac and PC and is available on the Microsoft AppSource marketplace.
+
+Crunched uses state-of-the-art large language models to execute tasks described in plain English. Every edit is tracked with a full audit trail – sources are cited, changes are logged, and professionals can stand behind the work. Customer data is never used for AI training, all data is encrypted with AES-256, and data residency is region-specific (EU data stays in Europe, US data stays in the US).
+
+## Core Capabilities
+
+- [Model Building](https://www.usecrunched.com/#how-it-works): Builds fully linked financial models (DCFs, LBOs, cohort analyses, revenue models, business cases, scenario and sensitivity analyses) directly in the spreadsheet from plain English instructions
+- [Error Detection](https://www.usecrunched.com/#how-it-works): Reviews Excel workbooks end-to-end, catching linking mistakes, logical flaws, formula errors, and finance-specific methodology issues across models of any size
+- [Data Extraction](https://www.usecrunched.com/#how-it-works): Extracts and structures data from PDFs (e.g., information memorandums, annual reports), images, web sources, third-party financial data providers, and customer databases, then links it into templates
+- [Formatting](https://www.usecrunched.com/#how-it-works): Automates spreadsheet formatting and presentation to professional standards
+- [Slide Generation](https://www.usecrunched.com/#how-it-works): Generates presentation slides directly from Excel workbooks with full understanding of the underlying data, models, and context – applies professional styling and templates to produce client-ready decks
+- [Deck Review](https://review.usecrunched.com): Reviews full presentations across 100+ pages, verifying that all information is consistent, correct, and aligned with the source workbook data
+
+## Industry Solutions
+
+- [Investment Banking](https://www.usecrunched.com/#usecases): M&A, capital markets, and advisory teams – build deal models, run valuations, and automate first-pass model reviews
+- [Management Consulting](https://www.usecrunched.com/#usecases): Commercial due diligence and strategy teams – generate consultant-grade analyses and review business model assumptions
+- [Private Equity](https://www.usecrunched.com/#usecases): Deal teams, portfolio operations, and fund managers – build LBO models from information memorandums, error-check complex models, and run scenario analyses
+- [Real Estate](https://www.usecrunched.com/#usecases): Investment, development, and asset management – automate tenant research, valuation modeling, and analysis validation
+
+## Enterprise
+
+- [Enterprise Solutions](https://www.usecrunched.com/enterprise): Secure deployment with enterprise-grade security, scalable AI agents (deploy one or ten simultaneously), and maximized efficiency without expanding headcount
+
+## Security & Compliance
+
+- [Security & Data Protection](https://www.usecrunched.com/security): ISO 27001 certified, SOC 2 Type II certified, GDPR compliant. Zero training on customer data. AES-256 encryption in transit and at rest. Region-specific data residency. Logical tenant isolation with no cross-access between customers.
+
+## Resources
+
+- [Help Center & Documentation](https://docs.usecrunched.com): Product documentation, feature guides, and getting started resources
+- [Deck Review Tool](https://review.usecrunched.com): AI-powered presentation error-checking tool
+- [Support](https://www.usecrunched.com/support): 24/7 technical support from the Crunched team
+- [Microsoft AppSource](https://marketplace.microsoft.com/en-us/product/saas/wa200009174): Crunched listing on the Microsoft marketplace
+
+## Company
+
+- [Careers](https://www.usecrunched.com/careers): Open roles at Crunched
+- [Privacy Policy](https://www.usecrunched.com/policy): Privacy policy
+- [Terms of Service](https://www.usecrunched.com/terms): Terms of service
+
+## FAQ
+
+- **Does Crunched run inside my Excel workbook?** Yes, Crunched works as a native Excel add-in, executing all actions directly in the spreadsheet with no exports or context switching required.
+- **What types of models can Crunched build?** DCFs, LBOs, cohort analyses, revenue models, business cases, scenario analyses, sensitivity analyses, and more.
+- **Is my data used for AI training?** No. Customer data is never used to train AI models, either internally or through third-party providers.
+- **Does Crunched work on Mac and PC?** Yes, Crunched works with both Mac and PC versions of Microsoft Excel.
+- **How much does Crunched cost?** Contact the Crunched team for pricing. Enterprise solutions are available with custom deployment options.
+- **Can I undo changes?** Yes, all changes Crunched makes to spreadsheets can be undone.
