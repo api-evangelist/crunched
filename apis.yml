@@ -13,6 +13,17 @@ description: >-
   Type II certified and GDPR compliant, and is backed by Y Combinator, First
   Round Capital, and 20VC. It is distributed through the Microsoft AppSource
   marketplace and does not currently publish a public developer API.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
