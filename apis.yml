@@ -47,7 +47,7 @@ x-tier: profile
 x-tier-reason: enriched-no-public-api
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-18'
+modified: '2026-10-06'
 x-docs-platform: mintlify
 x-docs-platform-confidence: medium
 x-docs-platform-checked: 2026-09-24
@@ -64,6 +64,8 @@ tags:
 - Productivity
 apis: []
 common:
+- url: https://www.usecrunched.com/blog/
+  type: Blog
 - type: DomainSecurity
   url: security/crunched-domain-security.yml
 - type: Website
