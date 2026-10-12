@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/crunched/integrations
+- https://n8n.io/integrations/crunched/
+- https://composio.dev/toolkits/crunched
+- https://monid.ai/tools/crunched
+checked:
+- https://composio.dev/toolkits/crunched
+- https://monid.ai/tools/crunched
+- https://n8n.io/integrations/crunched/
+- https://zapier.com/apps/crunched/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
