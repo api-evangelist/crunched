@@ -64,6 +64,92 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Crunched is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Crunched is an AI Excel analyst for power users in management consulting, investment banking, private equity, and corporate finance. Working as a native Microsoft Excel add-in (Mac and PC) and a companion PowerPoint deck reviewer, it builds fully linked financial models (DCFs, LBOs, cohort and scenario analyses) from plain-English instructions, error-checks entire workbooks, extracts and structures data from PDFs and web sources, formats spreadsheets, and generates client-ready slides with full workbook context. Every edit is tracked with a full audit trail and cited sources. Founded by Philip Borge and Michael Sakowski (ex-McKinsey private equity), Crunched is ISO 27001 and SOC 2 Type II certified and GDPR compliant, and is backed by Y Combinator, First Round Capital, and 20VC. It is distributed through the Microsoft AppSource marketplace and does not currently publish a public developer API.
 
-Backed by: y-combinator
+**Areas:** Company · Artificial Intelligence · Finance · Excel · Spreadsheets · Financial Modeling · Investment Banking · Private Equity · Management Consulting · Productivity
+
+## Crunched on APIs.io
+
+Everything profiled for Crunched is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/crunched/](https://apis.io/providers/crunched/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [crunched](https://apis.io/servers/crunched/crunched/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Crunched Domain Security](https://apis.io/security/crunched/crunched-domain-security/)
+- [Crunched Trust Center](https://apis.io/security/crunched/crunched-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.usecrunched.com/)
+- [Documentation](https://docs.usecrunched.com)
+- [Support](https://www.usecrunched.com/support)
+- [Blog](https://www.usecrunched.com/blog/)
+- [Compliance](https://www.usecrunched.com/security)
+- [Terms of service](https://www.usecrunched.com/terms)
+- [Privacy policy](https://www.usecrunched.com/policy)
+
+## API Evangelist rating
+
+**Kin Score 8.7** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 14.5 |
+
+**Agent readiness 2.2** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | platform (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.4** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/crunched/](https://apis.io/providers/crunched/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Crunched: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/crunched/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
